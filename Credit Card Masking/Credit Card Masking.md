@@ -7,7 +7,7 @@ For example, if the function gets sent “4444444444444444”, then it should re
 # Solution
 
 ```
-#gathering input from the user
+# gathering input from the user
 input_cc_num = input("Enter your credit card number (Format: xxxxxxxxxxxxx): ")
 
 # replacement char
